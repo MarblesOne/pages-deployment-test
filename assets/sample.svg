@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300">
+  <rect width="840" height="300" rx="24" fill="#e5f1f7"/>
+  <circle cx="170" cy="150" r="82" fill="#276a91"/>
+  <rect x="330" y="75" width="145" height="145" rx="22" fill="#176b55"/>
+  <path d="M610 220 L690 75 L770 220 Z" fill="#e5a23b"/>
+  <text x="420" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#173b70">Static asset loaded</text>
+</svg>
